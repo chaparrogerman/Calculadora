@@ -34,6 +34,7 @@ body{
     margin-bottom: 1rem;
     font-family: monospace;
     font-weight: 600;
+    word-wrap: break-word;
 }
 
 .btn{
